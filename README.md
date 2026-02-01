@@ -1,5 +1,5 @@
 # name_website
-This is frontend and backend, with 2 repos and no "/run". 
+This is frontend and backend, with 2 repos and no "/run". please read this in code form. 
 
 
 Remember this is how you order the files in your vscode, and also later on you need to open 2 terminals.
